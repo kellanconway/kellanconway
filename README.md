@@ -1,4 +1,4 @@
-### Hi there 👋
+I make websites and read Neitzche books in my free time
 
 <!--
 **kellanconway/kellanconway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
